@@ -10,6 +10,7 @@ namespace Warehouse
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
